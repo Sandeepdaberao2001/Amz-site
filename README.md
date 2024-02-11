@@ -1,4 +1,4 @@
 # Amz-site
-web dev;opment (amzon site)
+web devlopment (amzon site)
 <br>
 Author - Sandeep S. Daberao 
